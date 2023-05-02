@@ -1,0 +1,56 @@
+[
+  { 
+    "id": 0,
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683032113~exp=1683032713~hmac=48f1846f6d91bebf5a737a069487dfc58f90d21a36ce7f3d2d4514784af137e7",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "likes": 12000 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  },
+  { 
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-holding-knife-isolated-pink-wall_141793-101292.jpg?t=st=1683005556~exp=1683006156~hmac=a219fbf0530d5a9ce4ff9525a1e7b4f5a5747f1d5b0379f4c954b623c1437420",
+    "chef_name": "David Chang",
+    "years_of_experience": 20,
+    "number_of_recipes": 75,
+    "likes": 9500 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  },
+  { 
+    "id": 2,
+    "chef_picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-holding-knife-isolated-pink-wall_141793-101131.jpg?w=740&t=st=1683032347~exp=1683032947~hmac=deb4161f5d7a2cd2ce1f29ef7aaeff0b8d762d577f8dd7c809bb1f7aca067e06",
+    "chef_name": "Jamie Oliver",
+    "years_of_experience": 25,
+    "number_of_recipes": 200,
+    "likes": 20000 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  },
+  { 
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-pretending-holding-something_141793-38017.jpg?t=st=1683009276~exp=1683009876~hmac=3b6abf3608e14551bbdee2983d75423c689560c34d5f5fd9b8b8338cd3f52bbb",
+    "chef_name": "Nigella Lawson",
+    "years_of_experience": 30,
+    "number_of_recipes": 150,
+    "likes": 18000 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  },
+  { 
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?size=626&ext=jpg&uid=R101345455&ga=GA1.2.486376239.1673797479&semt=robertav1_2_sidr",
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 35,
+    "number_of_recipes": 250,
+    "likes": 25000 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  },
+  { 
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?size=626&ext=jpg&uid=R101345455&ga=GA1.2.486376239.1673797479&semt=robertav1_2_sidr",
+    "chef_name": "Ina Garten",
+    "years_of_experience": 40,
+    "number_of_recipes": 100,
+    "likes": 15000 ,
+     "bio": "Jamie Oliver is a Italian chef, restaurateur, and media personality. He is known for his simple yet flavorful recipes and has authored numerous cookbooks and hosted several TV shows."
+  }
+]
